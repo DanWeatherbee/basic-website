@@ -1,0 +1,145 @@
+
+/* Cyberdans CSS Code Second Submission for Lesson 2
+As you can see, I had Lots of fun here!
+I used Cromes Dev Tool to tweek things the way I liked
+I also used it to weed out the redundent Attributes.*/
+
+*{
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+a	{
+    	text-decoration:    underline;
+	}
+
+a:link  {
+
+    color:  #FFD600;
+
+    }
+
+
+a:visited   {
+
+    color:  black;
+
+    }
+
+
+a:active    {
+
+    color:  blue;
+
+    }
+
+
+a:hover {
+
+    color:  red;
+
+    text-decoration:    none;
+
+    }
+
+
+body {
+    background-color:#673D01;
+
+    text-align:center;
+
+	margin:10px;
+
+    }
+
+
+div, span {
+
+	color:white;
+
+	background-color:#522475;
+
+    margin:50px;
+
+	border : 30px solid;
+
+	border-color:#3C3422;
+
+	border-radius:150px;
+
+	font-size:18pt;
+
+	}
+
+
+.fixed {
+
+	position: fixed;
+
+	bottom:0;
+
+	background-color:#886821;
+
+	border : 3px solid;
+
+	border-radius:30px;
+
+	text-align: center;
+
+	width:200px;
+
+	height:50px;
+
+	font-size:24px;
+
+	font:arial;
+
+	}
+
+
+.content {
+
+	background-color:#a06112;
+
+	border : 3px solid;
+
+	border-radius:30px;
+
+	}
+
+
+.main {
+
+	height:100%;
+
+	margin:50px;
+
+	}
+
+
+.lesson {
+
+	background-color:#e400ff;
+
+	color:#fff;
+
+	border-radius:100%;
+
+	}
+
+
+.ps {
+
+	color:red;
+
+	}
+
+
+h1  {
+
+	font-size:40px;
+
+	color:white"
+
+}

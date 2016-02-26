@@ -1,0 +1,42 @@
+
+
+
+.description {
+	margin-left:35px;
+margin-right:10px;
+border : 0px solid;
+	color:#6D6D6D;
+border-color:#797979;
+	background-color:white;
+	font-size:28px;
+	font-family:Arial;
+	width:580px;
+}
+
+.app {
+	padding-bottom:20px;
+	color:white;
+	background-color:#36BFBF;
+	width:950px;
+	height:110px;
+	font-size:60px;
+
+}
+
+.container {
+	padding-top:270px;
+	padding-left:185px;
+	background-color:white;
+	border-radius: 50px;
+}
+
+.image {
+	background-color:white;
+}
+
+.content {
+	background-color:white;
+	display:flex;
+}
+
+
